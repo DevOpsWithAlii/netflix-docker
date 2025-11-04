@@ -23,11 +23,11 @@ Once the container is running, open your browser and go to:
 ### Home Page
 ![Home Screenshot](./assets/home.png)
 
-### Sign In Page
-![Sign In Screenshot](./assets/signin.png)
+### 
+![Sign In Screenshot](./assets/midpage.png)
 
 ### Footer
-![Footer Screenshot](./assets/signin.png)
+![Footer Screenshot](./assets/footer.png)
 
 
 💡 Key Learnings
