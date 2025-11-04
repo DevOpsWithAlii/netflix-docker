@@ -17,7 +17,7 @@ It demonstrates how to containerize a Java web application using a `Dockerfile` 
 Build and start the container in one command:
 docker-compose up --build
 Once the container is running, open your browser and go to:
-👉 http://localhost:8080
+👉 http://localhost:9090
 
 ## 📸 Preview
 ### Home Page
