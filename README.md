@@ -29,7 +29,7 @@ Once the container is running, open your browser and go to:
 ### Footer
 ![Footer Screenshot](./assets/footer.png)
 
-
+``
 💡 Key Learnings
 -How to deploy a Java web app using Tomcat inside Docker
 -Simplifying deployment with Docker Compose
