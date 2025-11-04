@@ -29,8 +29,9 @@ Once the container is running, open your browser and go to:
 ### Footer
 ![Footer Screenshot](./assets/footer.png)
 
-``
-💡 Key Learnings
--How to deploy a Java web app using Tomcat inside Docker
--Simplifying deployment with Docker Compose
--Managing containers with a single command
+
+## Key Learnings
+-How to deploy a Java web app using Tomcat inside Docker.
+-Simplifying deployment with Docker Compose.
+-Managing containers efficiently with a single command.
+-Understanding how WAR files can be served in Tomcat containers.
